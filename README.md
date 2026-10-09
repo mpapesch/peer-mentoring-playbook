@@ -70,3 +70,25 @@ evolving collection of hopefully useful material.
 > members. Once the group is well established, it may suffice to include the
 > _Expert_ only occasionally or on demand, freeing capacity to support other --
 > less mature -- peer groups.
+
+
+## Structure
+
+This playbook offers individual atomic pieces of advice that describe a a
+problem and its likely consequences, and offers a tried approach to prevent or
+solve the problem
+
+- **Template**: There will be a template covering relevant meta information
+  about each bolierplate solution.
+
+- **Organizing**: Tips and skills helping to organize a peer group meeting on a
+  regular basis.
+
+- **Properties**: Tips regarding how to identify relevant properties for
+  recurring meetings and how to define them.
+
+- **Peer-Mentoring**: Tips and skills how to make peer mentoring a successful
+  and enjoyable experience.
+
+- **General Concpets**: Helpful concepts that may be helpful for a peer group
+  as a learning community.
