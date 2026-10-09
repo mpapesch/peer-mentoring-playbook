@@ -1,5 +1,5 @@
 ---
-title: Peer-Mentoring Playbook: Meta-Information Template
+title: 'Peer-Mentoring Playbook: Meta-Information Template'
 Date: 2026-10-08
 ---
 
