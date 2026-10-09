@@ -71,6 +71,11 @@ evolving collection of hopefully useful material.
 > _Expert_ only occasionally or on demand, freeing capacity to support other --
 > less mature -- peer groups.
 
+> [!NOTE]
+> A self-managed peer-mentoring group offers the opportunity to learn and
+> practice organizing skills that are helpful when assuming a _Mentor_ role or
+> engaging in a community, thus offering a personal development path.
+
 
 ## Structure
 
@@ -84,11 +89,12 @@ solve the problem
 - **[Organizing](Organizing/README.md)**: Tips and skills helping to organize a peer group meeting on a
   regular basis.
 
-- **Properties**: Tips regarding how to identify relevant properties for
+- **[Properties](Properties/README.md)**: Tips regarding how to identify relevant properties for
   recurring meetings and how to define them.
 
-- **Peer-Mentoring**: Tips and skills how to make peer mentoring a successful
+- **[Peer-Mentoring](Peer-Mentoring/README.md)**: Tips and skills how to make peer mentoring a successful
   and enjoyable experience.
 
 - **General Concpets**: Helpful concepts that may be helpful for a peer group
-  as a learning community.
+  as a learning community (e.g. Non-Violent Communication, Psychological
+  Safety).
