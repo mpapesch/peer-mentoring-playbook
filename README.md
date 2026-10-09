@@ -81,7 +81,7 @@ solve the problem
 - **[Template](Template.md)**: There will be a template covering relevant meta information
   about each bolierplate solution.
 
-- **Organizing**: Tips and skills helping to organize a peer group meeting on a
+- **[Organizing](Organizing/README.md)**: Tips and skills helping to organize a peer group meeting on a
   regular basis.
 
 - **Properties**: Tips regarding how to identify relevant properties for
