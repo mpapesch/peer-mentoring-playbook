@@ -78,7 +78,7 @@ This playbook offers individual atomic pieces of advice that describe a a
 problem and its likely consequences, and offers a tried approach to prevent or
 solve the problem
 
-- **Template**: There will be a template covering relevant meta information
+- **[Template](Template.md)**: There will be a template covering relevant meta information
   about each bolierplate solution.
 
 - **Organizing**: Tips and skills helping to organize a peer group meeting on a
