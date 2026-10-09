@@ -1,6 +1,6 @@
 ---
 title: 'Peer-Mentoring Playbook: Meta-Information Template'
-Date: 2026-10-08
+date: 2026-10-08
 ---
 
 # Meta-Information Template
@@ -20,5 +20,9 @@ overcome problems encountered when running a peer-mentoring group.
 - **Approach**: A description of _how_ the resource may be applied to achieve
   the objective.
 
+- **Prerequisites**:  A description of required resources to implement the
+  solution.
+
 - **Further Resources**: References and links to further resources providing
   more detailed or additional background information.
+
